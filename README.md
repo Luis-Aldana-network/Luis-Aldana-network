@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Luis Aldana
 
-<!--
-**Luis-Aldana-network/Luis-Aldana-network** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics engineer working in fiber optic and backhaul networks.
+Currently transitioning into Cybersecurity and Network Automation.
 
-Here are some ideas to get you started:
+## 🔧 Current Focus
+- Home Lab Development
+- Network Segmentation
+- Linux & Python for Networking
+- Cybersecurity Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Home Lab
+Building a segmented network using:
+- MikroTik RouterOS
+- Ubuntu Server
+- Network Monitoring & SIEM (in progress)
+
+## 📚 Learning Path 2026
+- Python automation
+- Network Security
+- SOC fundamentals
+--
+📍 Colombia
