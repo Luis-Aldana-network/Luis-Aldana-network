@@ -19,6 +19,9 @@ Building a segmented network using:
 - Python automation
 - Network Security
 - SOC fundamentals
+
+## 🛠️ Herramientas
+Linux | Nmap | Wireshark | Git | Python
 - 
 ## --
 📍 Colombia
