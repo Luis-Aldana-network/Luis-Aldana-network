@@ -19,5 +19,6 @@ Building a segmented network using:
 - Python automation
 - Network Security
 - SOC fundamentals
---
+- 
+## --
 📍 Colombia
